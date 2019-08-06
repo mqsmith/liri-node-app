@@ -2,7 +2,7 @@
   "name": "liri-node-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/mqsmith/liri-node-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "mike smith",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mqsmith/liri-node-app/issues"
