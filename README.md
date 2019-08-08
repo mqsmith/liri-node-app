@@ -4,16 +4,16 @@
 
 ##Description
 
-Liri is a Node.js app that depends on user input from the command line
+Liri is a Node.js app that depends on user input from the command line ![alt text](assets/images/liri-default.png "liri default with no user input")
 
 Integrated Spotify, Bandsintown and OMDb APIs return information based in specific user input
 
 ##The following specific commands will return searc results from the API’s:
 
-liri node “concert-this” - to return recent band info and tour dates from Bandsintown API.
-liri node “spotify-this-song” and a “song-name” - to return search results based on the song-name entry.
-liri node “movie-this” and a “movie-name” - to return search results based on the movie-name entry.
-liri node “do-what-it-says” - to access and execute the data command in the random.txt file.
+liri node “concert-this” - to return recent band info and tour dates from Bandsintown API. ![alt text](assets/images/liri-concert-this.png "concert-this")
+liri node “spotify-this-song” and a “song-name” - to return search results based on the song-name entry. ![alt text](assets/images/liri-spotify-this-no-song.png "spotify-this with no song entered") , ![alt text](assets/images/liri-spotify-this-with-song.png "spotify-this with a song entered")
+liri node “movie-this” and a “movie-name” - to return search results based on the movie-name entry. ![alt text](assets/images/liri-movie-this-no-movie.png "movie-this with no movie entered"), ![alt text](assets/images/liri-movie-this-with-movie.png "movie-this with a movie entered")
+liri node “do-what-it-says” - to access and execute the data command in the random.txt file. ![alt text](assets/images/liri-do-what-it-says.png "do-what-it-says")
 
 ##Technologies Used
 
