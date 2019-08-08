@@ -19,10 +19,10 @@ liri node “do-what-it-says” - to access and execute the data command in the 
 
 Node.js
 JavaScript
-Bandsintown API (via npm module)
+Bandsintown API (via axios)
 Spotify API (via spotify npm module)
-OMDb API (via request npm module)
-Node Module Requirments
+OMDb API (via axios)
+
 
 ##You’ll need these Node packages to run this app in the command line
 
